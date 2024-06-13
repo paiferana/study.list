@@ -88,13 +88,10 @@
         <li><strong>Exibir Lista:</strong> Exibe todas as tarefas associadas a uma matéria.</li>
     </ul>
 
-    <h2 id="autores">Autores</h2>
-    <p>Este projeto foi desenvolvido pelo grupo de alunos da Facens:</p>
+    <h2 id="autores">Innovatrix</h2>
+    <p>Este projeto foi desenvolvido pelo grupo Innovatrix: Ana Júlia Paifer, Brenda Miranda, Lauren Barbosa,
+    Milene Micheloti, Sarah Oliveira</p>
     <ul>
-        <li><a href="https://github.com/usuario1">Nome do Aluno 1</a></li>
-        <li><a href="https://github.com/usuario2">Nome do Aluno 2</a></li>
-        <li><a href="https://github.com/usuario3">Nome do Aluno 3</a></li>
-        <li><a href="https://github.com/usuario4">Nome do Aluno 4</a></li>
     </ul>
 
     <h2>Licença</h2>
